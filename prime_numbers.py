@@ -1,4 +1,5 @@
 #prime_numbers in range
+#made by BENYAMIN ARAB, on september 21, 2022
 def hvhuin(num):
     flag= True
     for i in range(2,num):
